@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "NecBaas"
-  s.version      = "7.5.0-rc1"
+  s.version      = "7.5.0"
   s.summary      = "NEC Mobile Backend Platform iOS SDK"
   s.description  = <<-DESC
     NEC Mobile Backend Platform iOS SDK.
